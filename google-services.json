@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482742895271",
+    "project_id": "ejemplologin-ba8b0",
+    "storage_bucket": "ejemplologin-ba8b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482742895271:android:054fe4326b3090fc4a9182",
+        "android_client_info": {
+          "package_name": "com.example.practicaautenticaciontalavera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxcf_12mRAdCISFNK1CZ7ykxBgqAhCKo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
